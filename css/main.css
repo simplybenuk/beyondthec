@@ -1,0 +1,24 @@
+.story-section {
+  padding: 25px 0;
+}
+
+.story-intro {
+  max-width: 800px;
+}
+
+.page-pag {
+  margin: 0px 10px;
+}
+
+.page-pag-this {
+  margin: 0px 10px;
+  text-decoration: underline;
+}
+
+.story-content p {
+  font-style: italic;
+}
+
+.join-us {
+  font-weight: bold;
+}
